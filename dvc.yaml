@@ -35,4 +35,6 @@ stages:
      cache: false
    - reports/params.json
      cache: false
+    outs:
+   - models/model.joblib
   

@@ -9,3 +9,4 @@ scikit-learn
 jupyterlab
 boto3
 dvc
+argparse
